@@ -1,0 +1,4 @@
+panstwamiasta
+=============
+
+Gra "Państwa miasta"
